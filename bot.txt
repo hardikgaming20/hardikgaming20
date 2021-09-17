@@ -1,0 +1,3 @@
+iphardikgaming20.aternos.me
+port 28071
+name tuit
